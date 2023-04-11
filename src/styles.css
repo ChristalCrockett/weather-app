@@ -6,7 +6,7 @@ header .day,
   font-weight: bold;
 }
 
-heading { 
+heading {
   font-size: 50px;
   text-align: center;
 }
@@ -16,7 +16,7 @@ heading {
 }
 
 .center {
-  display: flex
+  display: flex;
   justify-content: center;
   align-items: center;
 }
